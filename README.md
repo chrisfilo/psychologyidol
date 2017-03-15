@@ -11,3 +11,4 @@ List of top ten psychologists:
 1. Ivan Pawlow
 1. Levw Wygotski
 1. Carol Dweck
+Edward Tolman
